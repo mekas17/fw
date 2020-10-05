@@ -108,3 +108,7 @@
 
     "A10": "a10"
 
+# Donate :
+BTC : 3G8BAgSwy9rs3nEwpkqayWvBqLL1ox4Zm7
+LTC : MPrkDchsAAcLmcPRiT8jyrvUsXUtGkmrks
+ZEC : t1Rdm4f53ZkN89tABSmirhU3fbMjpTuBmNY

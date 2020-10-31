@@ -110,6 +110,8 @@
     "A9++": "a9++",
 
     "A10": "a10"
+	
+	"A10 PRO" : "a10l"
 
 # Donate :
     BTC : 3G8BAgSwy9rs3nEwpkqayWvBqLL1ox4Zm7

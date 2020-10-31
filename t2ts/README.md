@@ -1,5 +1,8 @@
 # InnoSilicon Firmware
+# Error List
 
+    "RU" : "ErrorListRU.csv"
+    "CN" : "ErrorListCN.csv"
 # Compatibility
 
     "T1": "t1",

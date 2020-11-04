@@ -1,10 +1,13 @@
 # InnoSilicon Firmware
+
+#Unlock fixed pools --> https://t.me/cubich
+
 # Error List
 
     "RU" : "ErrorListRU.csv"
     "CN" : "ErrorListCN.csv"
-# Compatibility
 
+# Compatibility
     "T1": "t1",
 
     "T2": "t2",
@@ -111,9 +114,9 @@
 
     "A10 4GB": "a10"
 	
-	"A10 PRO 5GB" : "a10l"
+    "A10 PRO 5GB" : "a10l"
 	
-	"A10 PRO 6GB" : "a10u"
+    "A10 PRO 6GB" : "a10u"
 
 # Donate :
     BTC : 3G8BAgSwy9rs3nEwpkqayWvBqLL1ox4Zm7

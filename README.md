@@ -1,6 +1,7 @@
 # InnoSilicon Firmware
 
 #Unlock fixed pools --> https://t.me/cubich
+#Bitmain firmware --> https://github.com/mekas17/fw/tree/main/ANTMINER
 
 # Error List
 

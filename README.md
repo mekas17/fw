@@ -125,7 +125,3 @@
     "A10 PRO 6GB 720mh" : "a10s"
 
     "A10 PRO 7GB 720mh" : "a10x"
-# Donate :
-    BTC : 3G8BAgSwy9rs3nEwpkqayWvBqLL1ox4Zm7
-    LTC : MPrkDchsAAcLmcPRiT8jyrvUsXUtGkmrks
-    ZEC : t1Rdm4f53ZkN89tABSmirhU3fbMjpTuBmNY

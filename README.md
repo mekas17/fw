@@ -7,7 +7,8 @@
 #Поддержать партнерской прошивкой --> https://github.com/mekas17/fw/tree/main/ANTMINER
 
 #Бот-помощник --> https://t.me/inno_help_bot
-#Bot-helper english version - under development
+
+#Bot-helper English version - under development
 
 # Error List
 

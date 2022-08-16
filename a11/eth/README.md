@@ -1,4 +1,5 @@
 # ETH\ETC version
-     "RU" : "Прошивка пока не найдена в свободном доступе.Сейчас появилась возможность установки прошивки удаленно. Для установки обратитесь к @GreedyDrake."
+
+# РџСЂРѕС€РёРІРєР° РїРѕРєР° РЅРµ РЅР°Р№РґРµРЅР° РІ СЃРІРѕР±РѕРґРЅРѕРј РґРѕСЃС‚СѓРїРµ. РЎРµР№С‡Р°СЃ РїРѕСЏРІРёР»Р°СЃСЊ РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ СѓСЃС‚Р°РЅРѕРІРєРё РїСЂРѕС€РёРІРєРё СѓРґР°Р»РµРЅРЅРѕ. Р”Р»СЏ СѓСЃС‚Р°РЅРѕРІРєРё РѕР±СЂР°С‚РёС‚РµСЃСЊ Рє https://t.me/GreedyDrake.
      
-     "EN" : "The firmware has not yet been found in the public access. Now it is possible to install the firmware remotely. Write @GreedyDrake for installation."
+# The firmware has not yet been found in the public access. Now it is possible to install the firmware remotely. Write https://t.me/GreedyDrake for installation.

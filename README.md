@@ -125,7 +125,11 @@
     "A10 PRO 5GB" : "a10l"
 	
     "A10 PRO 6GB" : "a10u"
+    
+    "A10 PRO 8GB" : "a10m"
 
     "A10 PRO 6GB 720mh" : "a10s"
 
     "A10 PRO 7GB 720mh" : "a10x"
+    
+    "A10 PRO 8GB 720mh" : "a10z"

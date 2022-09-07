@@ -8,9 +8,10 @@
 
 #Бот-помощник --> https://t.me/inno_help_bot
 
+#Bot-helper English version https://t.me/inno_help_en_bot
+
 #Innosilicon A10 серия https://t.me/a10_eth
 
-#Bot-helper English version - under development
 
 # Error List
 

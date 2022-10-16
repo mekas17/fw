@@ -2,10 +2,6 @@
 
 #Unlock fixed pools --> https://t.me/cubich
 
-#Donate firmware --> https://github.com/mekas17/fw/tree/main/ANTMINER
-
-#Поддержать партнерской прошивкой --> https://github.com/mekas17/fw/tree/main/ANTMINER
-
 #Бот-помощник --> https://t.me/inno_help_bot
 
 #Bot-helper English version https://t.me/inno_help_en_bot

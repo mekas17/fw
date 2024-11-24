@@ -1,14 +1,14 @@
 # InnoSilicon Firmware
 
-##UPDATED FIRMWARE ARCHIVE (all models) --> https://cdn.miners.tools
+## UPDATED FIRMWARE ARCHIVE (all models) --> https://cdn.miners.tools
 
-#Unlock fixed pools --> https://t.me/cubich
+# Unlock fixed pools --> https://t.me/cubich
 
-#Бот-помощник --> https://t.me/inno_help_bot
+# Бот-помощник --> https://t.me/inno_help_bot
 
-#Bot-helper English version https://t.me/inno_help_en_bot
+# Bot-helper English version https://t.me/inno_help_en_bot
 
-#Innosilicon A10 серия https://t.me/a10_eth
+# Innosilicon A10 серия https://t.me/a10_eth
 
 
 # Error List

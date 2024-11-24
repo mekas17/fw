@@ -1,5 +1,7 @@
 # InnoSilicon Firmware
 
+##UPDATED FIRMWARE ARCHIVE (all models) --> https://cdn.miners.tools
+
 #Unlock fixed pools --> https://t.me/cubich
 
 #Бот-помощник --> https://t.me/inno_help_bot
